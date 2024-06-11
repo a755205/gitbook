@@ -11,3 +11,6 @@
     - [1.install](commendlinetool/tmux/install.md)
     - [2.KeyMap](commendlinetool/tmux/myKeyMap.md)
   - [entr](commendlinetool/entr.md)
+- [Nvim](/nvim/README.md)
+    - [Plugin](/nvim/plugin/README.md)
+        - [vim-table-mode](/nvim/plugin/vim-table-mode.md)
