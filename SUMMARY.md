@@ -7,6 +7,8 @@
   - [readme](gitbook/README.md)
   - [Install](gitbook/install.md)
   - [Cmd](gitbook/cmd.md)
+- [Command-Line-Tool]
+  - [entr](commendlinetool/entr.md)
 - [1. 季节](季节/ReadMe2.md)
   - [1.1 春](季节/section0.md)
   - [1.2 夏](季节/section1.md)
