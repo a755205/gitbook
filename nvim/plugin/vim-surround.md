@@ -12,10 +12,9 @@ https://github.com/tpope/vim-surround
 | ---      | ---                            | ---                            |
 | N        | change "aaa" to 'aaa'          | `cs"'`                         |
 |          | change 'aaa' to <p>aaa<p>      | `cs'<p>`                       |
-|          | remove 'aaa' to aaa            | ds'                            |
-|          | Hello world! to [Hello] world! | yusiw]                         |
-| V        |                                |                                |
-|          | Hello world! => Hello (world)! | selected Hellow and press `S(` |
+|          | remove 'aaa' to aaa            | `ds'`                          |
+|          | Hello world! to [Hello] world! | `yusiw]`                       |
+| V        | Hello world! => Hello (world)! | selected Hellow and press `S(` |
 
 
 
