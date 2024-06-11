@@ -14,3 +14,4 @@
 - [Nvim](/nvim/README.md)
     - [Plugin](/nvim/plugin/README.md)
         - [vim-table-mode](/nvim/plugin/vim-table-mode.md)
+        - [vim-surround](/nvim/plugin/vim-surround.md)
