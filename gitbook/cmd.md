@@ -12,5 +12,9 @@
 
 - run local server
   ```bash
-  gitbook serve
+    gitbook serve
+  ```
+- build
+  ```bash
+    find . -name "*.md" | entr gitbook build
   ```

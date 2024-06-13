@@ -41,3 +41,13 @@
     ```bash
     gitbook serve
     ```
+
+- build gitbook
+  - firse use nvm to change node version to 10
+    ```bash
+    nvm use 10
+    ```
+  - build
+    ```bash
+    find . -name "*.md" | entr gitbook build
+    ```
