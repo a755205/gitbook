@@ -15,3 +15,10 @@
     - [Plugin](/nvim/plugin/README.md)
         - [vim-table-mode](/nvim/plugin/vim-table-mode.md)
         - [vim-surround](/nvim/plugin/vim-surround.md)
+- [JavaScript](/js/README.md)
+    - [Plugin](/js/plugin/README.md)
+        - [PhotoSwipe](/js/plugin/photoswip.md)
+    - [framework](/js/framework/README.md)
+        - [vue](/js/framework/vue/vue.md)
+            - [v-viewer](/js/framework/vue/plugin/v-viewer.md)
+    
