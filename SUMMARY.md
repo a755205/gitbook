@@ -20,5 +20,6 @@
         - [PhotoSwipe](/js/plugin/photoswip.md)
     - [framework](/js/framework/README.md)
         - [vue](/js/framework/vue/vue.md)
-            - [v-viewer](/js/framework/vue/plugin/v-viewer.md)
+        - [electron-vite](/js/framework/electron-vite/electron-vite.md)
     
+
