@@ -24,8 +24,8 @@
               * [v-viewer](src/js/framework/vue/plugin/v-viewer.md)
               * [sortablejs](src/js/plugin/sortablejs.md)
           * [ui-framework](src/js/framework/vue/ui-framework/README.md)
-              * [list](src/js/framework/vue/ui-framework/list.md)
+              * [framework list](src/js/framework/vue/ui-framework/list.md)
         * [electron-vite](src/js/framework/electron-vite/electron-vite.md)
-* [Markdown]
+* [Markdown](src/markdown/toc.md)
     * [TOC](src/markdown/toc.md)
 
