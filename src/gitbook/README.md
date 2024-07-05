@@ -3,6 +3,7 @@
 <!-- TOC -->
 
 - [Summary](#summary)
+- [Glossary](#GLOSSATY)
 - [book.json](#bookjson)
 - [Plugins](#plugins)
 
@@ -34,6 +35,10 @@
   - [1.1 北京](城市/section0.md)
   - [1.2 上海](城市/section1.md)
 ```
+
+# GLOSSARY
+
+link glossary to GLOSSARY.md
 
 # book.json 
 
@@ -86,3 +91,4 @@ ref: [book.json](https://www.chengweiyang.cn/gitbook/customize/book.json.html)
 <!-- expandable-chapters-small 插件: 默认的侧边目录是全部展开的，该插件可以让文章按照层级目录折叠起来，展开后不会自动折叠，箭头相比 expandable-chapters 会细一些。 -->
 <!-- sidebar-style 插件: 会替换掉 Published by GitBook，并在左侧最上面显示标题。 -->
 <!-- splitter 插件: 提供侧边栏宽度可调节功能。 -->
+
