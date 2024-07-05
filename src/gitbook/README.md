@@ -36,6 +36,9 @@
 ```
 
 # book.json 
+
+ref: [book.json](https://www.chengweiyang.cn/gitbook/customize/book.json.html)
+
 ```json
 {
     "author": "Kent",

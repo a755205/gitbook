@@ -10,14 +10,28 @@
 
 - switch node to version 6 use nvm
 
-```bash
+```term
 nvm use 6
 ```
 
 - install use gitbook cli
 
-```bash
+```term
 gitbook install
 ```
+
+# useful list
+
+list table
+
+ref: [plugins](https://www.zhaowenyu.com/gitbook-doc/manual/gitbook-quick-start.html)
+
+| index | name         | desc      | ref                                                    |
+| ---   | ---          | ---       |                                                        |
+| 0     | chapter-fold | fold menu |                                                        |
+| 1     | code         | code      | https://www.npmjs.com/package/gitbook-plugin-code      |
+| 2     | prism        | prism     | https://www.npmjs.com/package/gitbook-plugin-prism     |
+| 3     | terminull    | terminal  | https://www.npmjs.com/package/gitbook-plugin-terminull |
+| 4     | mermaid      | flow chat | https://www.npmjs.com/package/gitbook-plugin-mermaid   |
 
 

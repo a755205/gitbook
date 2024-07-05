@@ -34,8 +34,16 @@
     "title": "Kent's GitBook",
     "variables": {},
     "plugins":[
-        "chapter-fold"
-    ]
+        "chapter-fold",
+        "code",
+        "prism",
+        "terminull"
+    ],
+    "pluginsConfig": {
+        "terminull": {
+            "theme": "dark",
+            "copy_button": "enabled"
+        }
+    }
 }
-
 
