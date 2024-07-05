@@ -34,10 +34,10 @@
     "title": "Kent's GitBook",
     "variables": {},
     "plugins":[
-        "chapter-fold",
         "code",
         "prism",
-        "terminull"
+        "terminull",
+        "expandable-chapters-small"
     ],
     "pluginsConfig": {
         "terminull": {
