@@ -10,6 +10,7 @@
   * [TMUX](src/commendlinetool/tmux/README.md)
     * [1.install](src/commendlinetool/tmux/install.md)
     * [2.KeyMap](src/commendlinetool/tmux/myKeyMap.md)
+    * [3.fix-issue](src/commendlinetool/tmux/fix-issue.md)
   * [entr](src/commendlinetool/entr.md)
 * [Nvim](src/nvim/README.md)
     * [Plugin](src/nvim/plugin/README.md)
