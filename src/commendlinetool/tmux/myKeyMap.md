@@ -35,4 +35,4 @@
 |             | save session                | prefix + Ctrl-s | [tmux-resurect]                                                          |
 |             | restore session             | prefix + Ctrl-r | [tmux-resurect]                                                          |
 |             | fetch plugin & source       | prefix + I      | [tmux-resurect]                                                          |
-|             |                             |                 |                                                                          |
+
