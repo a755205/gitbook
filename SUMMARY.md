@@ -22,6 +22,7 @@
         * [PhotoSwipe](src/js/plugin/photoswip.md)
     * [framework](src/js/framework/README.md)
         * [vue](src/js/framework/vue/vue.md)
+          * [solutions](src/js/framework/vue/solutions.md)
           * [plugin](src/js/framework/vue/plugin/README.md)
               * [v-viewer](src/js/framework/vue/plugin/v-viewer.md)
               * [sortablejs](src/js/plugin/sortablejs.md)
