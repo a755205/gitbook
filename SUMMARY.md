@@ -29,6 +29,7 @@
           * [ui-framework](src/js/framework/vue/ui-framework/README.md)
               * [framework list](src/js/framework/vue/ui-framework/list.md)
         * [electron-vite](src/js/framework/electron-vite/electron-vite.md)
+    * [electron](src/js/electron/ffmpeg.md)
 * [Markdown](src/markdown/toc.md)
     * [TOC](src/markdown/toc.md)
 
