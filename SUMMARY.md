@@ -13,6 +13,8 @@
     * [3.KeyMap](src/commendlinetool/tmux/myKeyMap.md)
     * [4.fix-issue](src/commendlinetool/tmux/fix-issue.md)
   * [entr](src/commendlinetool/entr.md)
+* [Linux](src/linux/zip.md)
+    * [zip](src/linux/zip.md)
 * [Nvim](src/nvim/README.md)
     * [Plugin](src/nvim/plugin/README.md)
         * [vim-table-mode](src/nvim/plugin/vim-table-mode.md)
