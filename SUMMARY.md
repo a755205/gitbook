@@ -20,6 +20,7 @@
         * [vim-table-mode](src/nvim/plugin/vim-table-mode.md)
         * [vim-surround](src/nvim/plugin/vim-surround.md)
 * [JavaScript](src/js/README.md)
+    * [Node](src/js/node/index.md)
     * [Plugin](src/js/plugin/README.md)
         * [PhotoSwipe](src/js/plugin/photoswip.md)
     * [framework](src/js/framework/README.md)
