@@ -10,7 +10,8 @@
 |             | change window               | prefix + w      | list windows, (close window) after list, select item and press x, then y |
 |             | change window name          | prefix + ,      |                                                                          |
 |             | leave tmux                  | prefix + d      | Detach the current client.                                               |
-|             | new window                  | prefix + c      |                                                                          |
+|             | new window                  | prefix + c      | create new window in other group                                         |
+|             | new window in this group    |                 | this is cmd ```tmux new-window```                                        |
 |             | next window                 | prefix + n      |                                                                          |
 |             | previous window             | prefix + p      |                                                                          |
 |             | find window                 | prefix + f      |                                                                          |
