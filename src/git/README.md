@@ -17,8 +17,8 @@ Host nuxtdemo
 git remote -v
 
 ```bash
-origin  git@nuxtdemo:a755205/nuxtdemo202408.git (fetch)
-origin  git@nuxtdemo:a755205/nuxtdemo202408.git (push)
+origin  git@nuxtdemo:[GITHUB_ACCOUNT]/[REPOSTORY_NAME].git (fetch)
+origin  git@nuxtdemo:[GITHUB_ACCOUNT]/[REPOSTORY_NAME].git (push)
 ```
 上方的 git@nuxtdemo 中[nuxtdemo] 是 ssh config 的 HostName
 
