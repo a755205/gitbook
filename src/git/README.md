@@ -1,36 +1,36 @@
 # Git
 
-new github repository cmd
+# TOC
+ - push 錯誤排查 [push 錯誤排查](#push-錯誤排查)
+ - SSH Key 產生 [SSH Key 產生](#ssh-key-產生)
 
-…or create a new repository on the command line
+# push 錯誤排查
+
+1. ssh config 是否有設定
+```bash
+Host nuxtdemo
+    HostName github.com
+    User git
+    IdentityFile ~/.ssh/id_rsa
+```
+2. 本地端的分支名稱是否與遠端的分支名稱一致
+git remote -v
 
 ```bash
-echo "# nuxt3-demo-2024-08" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin git@github.com:a755205/nuxt3-demo-2024-08.git
-git push -u origin main
-
-
-
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin git@github.com:a755205/nuxtdemo202408.git
-git push -u origin main
+origin  git@nuxtdemo:a755205/nuxtdemo202408.git (fetch)
+origin  git@nuxtdemo:a755205/nuxtdemo202408.git (push)
 ```
+上方的 git@nuxtdemo 中[nuxtdemo] 是 ssh config 的 HostName
 
-…or create a new repository on the command line
+3. ssh -T 檢查是否有連線成功
 
 ```bash
-git remote add origin git@github.com:a755205/nuxt3-demo-2024-08.git
-git branch -M main
-git push -u origin main
+ssh -T git@nuxtdemo
 ```
+上方的 git@[nuxtdemo] 是 ssh config 的 HostName
 
+
+# SSH Key 產生
 
 - generate an SSH key
 ```bash
