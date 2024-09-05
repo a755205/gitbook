@@ -24,17 +24,22 @@
 ```bash
 brew install mupdf
 ```
+
 2. show install info [find install path]
 ```bash
 brew info mupdf
 ```
+
 3. add path to zsh
 ```bash
 # add [mupdf] to PATH
 export PATH="/opt/homebrew/Cellar/mupdf/1.23.11_1/bin:$PATH"
 ```
 
-
+4. open pdf
+```bash
+ mupdf-gl css-secrets-ch.pdf 
+```
 
 
 
