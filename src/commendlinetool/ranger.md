@@ -13,6 +13,11 @@ brew install ranger
 ranger
 ```
 
+## setup 
+- `ranger --copy-config=all` - copy the default configuration files to the config directory
+- `ranger --clean` - remove the configuration files from the config directory
+
+
 ## configuration
 - show hidden files
 : set show_hidden! 
