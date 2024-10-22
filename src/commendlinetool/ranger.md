@@ -13,6 +13,10 @@ brew install ranger
 ranger
 ```
 
+## configuration
+- show hidden files
+: set show_hidden! 
+
 ## keybindings
 
 
