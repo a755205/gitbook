@@ -1,6 +1,7 @@
 # Summary
 * [Introduction](/README.md)
 * [Git](src/git/README.md)
+  * [cmd](src/git/cmd.md)
 * [GitBook](src/gitbook/README.md)
   * [readme](src/gitbook/README.md)
   * [Install](src/gitbook/install.md)
